@@ -1,0 +1,8 @@
+geopandas
+pandas
+pandas 
+plotly 
+streamlit 
+requests 
+matplotlib 
+streamlit_extras 
